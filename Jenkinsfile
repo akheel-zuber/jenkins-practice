@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                sh 'echo "Deployment placeholder"'
+                sh 'echo "Deployment successfull"'
             }
         }
     }
